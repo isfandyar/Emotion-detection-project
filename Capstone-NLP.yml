@@ -1,0 +1,5 @@
+name: Capstone-NLP
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\Isfan\anaconda3\envs\Capstone-NLP\envs\Capstone-NLP
