@@ -1,5 +1,4 @@
-# ISFANDYAR VIRANI
-# Emotion detection Project
+# Emotion detection Project - by ISFANDYAR VIRANI
 ## Use Natural Language Processing to detect emotions in texts
 ---------------
 
